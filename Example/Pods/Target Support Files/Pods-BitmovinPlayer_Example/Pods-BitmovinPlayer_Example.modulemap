@@ -1,0 +1,6 @@
+framework module Pods_BitmovinPlayer_Example {
+  umbrella header "Pods-BitmovinPlayer_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

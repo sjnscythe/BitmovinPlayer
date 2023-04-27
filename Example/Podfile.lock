@@ -1,0 +1,16 @@
+PODS:
+  - BitmovinPlayer (0.1.0)
+
+DEPENDENCIES:
+  - BitmovinPlayer (from `../`)
+
+EXTERNAL SOURCES:
+  BitmovinPlayer:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BitmovinPlayer: 07085e81090016dd5ac58bc287b42f13e565c0df
+
+PODFILE CHECKSUM: fb28b186a001114581bdad724c916cdc6b072148
+
+COCOAPODS: 1.12.0
